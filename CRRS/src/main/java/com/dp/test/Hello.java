@@ -6,5 +6,9 @@ public class Hello {
 		System.out.println("hello");
 		System.out.println("how r u doing");
 	}
+	
+	public void work() {
+		System.out.println("working");
+	}
 
 }
